@@ -47,8 +47,4 @@ I am an IT graduate from AMA Computer Learning Center in Mandaue (ACLC), knowled
 <br>
 <h2 align="left">📜Certificates</h2>
 
-<h4>
-   
-- <a href="https://www.dicoding.com/certificates/2VX31353JZYQ">Learn Basic Web Programming from basic to advance</a>
-
 <br>
